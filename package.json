@@ -1,0 +1,25 @@
+{
+  "name": "training-module-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niravpatel129/Training-Module-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niravpatel129/Training-Module-Website/issues"
+  },
+  "homepage": "https://github.com/Niravpatel129/Training-Module-Website#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}
